@@ -1,0 +1,89 @@
+2022-08-11/15:04:00 [I001] jar:file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jar loaded by System ClassLoader.(false)
+2022-08-11/15:04:00 [I001] Agent initialized
+2022-08-11/15:04:00 [I001] loading control module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar
+2022-08-11/15:04:01 [I001] Agent Enable : true
+2022-08-11/15:04:01 [I001] Agent Base Version 5.6.0
+2022-08-11/15:04:01 [I001] Agent Implementation Version 5.6.0.10
+2022-08-11/15:04:01 [I001] System Environment Information
+2022-08-11/15:04:01 [I001]  Java Home : C:\Program Files\Java\jdk1.8.0_201\jre
+2022-08-11/15:04:01 [I001]  Java ClassPath :
+2022-08-11/15:04:01 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\bootstrap.jar
+2022-08-11/15:04:01 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\tomcat-juli.jar
+2022-08-11/15:04:01 [I001]   C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-08-11/15:04:01 [I001]  Java Vendor : Oracle Corporation
+2022-08-11/15:04:01 [I001]  Java Version : 1.8.0_201
+2022-08-11/15:04:01 [I001]  Java VM Name : Java HotSpot(TM) 64-Bit Server VM
+2022-08-11/15:04:01 [I001]  Java VM Vendor : Oracle Corporation
+2022-08-11/15:04:01 [I001]  Java VM Version : 25.201-b09
+2022-08-11/15:04:01 [I001]  Available Processors : 4
+2022-08-11/15:04:01 [I001]  Host Name : DESKTOP-IUPDB12
+2022-08-11/15:04:01 [I001]  OS Name : Windows 10
+2022-08-11/15:04:01 [I001]  OS Arch : amd64
+2022-08-11/15:04:01 [I001]  OS Version : 10.0
+2022-08-11/15:04:01 [I026] sun.boot.class.path : 
+2022-08-11/15:04:01 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar
+2022-08-11/15:04:01 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar
+2022-08-11/15:04:01 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar
+2022-08-11/15:04:01 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar
+2022-08-11/15:04:01 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar
+2022-08-11/15:04:01 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar
+2022-08-11/15:04:01 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar
+2022-08-11/15:04:01 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\classes
+2022-08-11/15:04:01 [I001]  C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-08-11/15:04:01 [I001] Data Server address : 192.168.10.80
+2022-08-11/15:04:01 [I001] Data Server port : 5000
+2022-08-11/15:04:01 [I001] Domain ID : 1000
+2022-08-11/15:04:01 [I001] Instance ID : -1
+2022-08-11/15:04:01 [I001] Log dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs
+2022-08-11/15:04:01 [I001] Log file : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs\agent_20220811_1000_unknown-instance.log
+2022-08-11/15:04:01 [I001] Log encoding : UTF-8
+2022-08-11/15:04:01 [I001] Log rotation : true
+2022-08-11/15:04:01 [I001] Log max age  : 0
+2022-08-11/15:04:01 [I001] Log level : 1
+2022-08-11/15:04:01 [I001] Debug mode : false
+2022-08-11/15:04:01 [I001] Dump mode : false
+2022-08-11/15:04:01 [I001] Dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/class_dump
+2022-08-11/15:04:01 [I001] Service dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/service_dump
+2022-08-11/15:04:01 [I001] max bucket size of collection : 5000
+2022-08-11/15:04:01 [I001] max bucket size of socket : 5000
+2022-08-11/15:04:01 [I001] max bucket size of file : 5000
+2022-08-11/15:04:01 [I001] Agent settings set in system environment
+2022-08-11/15:04:01 [I001] Agent settings set in system properties
+2022-08-11/15:04:01 [I001] Control Module initialized(3834305125425831571)
+2022-08-11/15:04:01 [I010] Jennifer-ControlModuleProcessor start
+2022-08-11/15:04:01 [I001] no native lib on '/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/libs
+2022-08-11/15:04:01 [I001] Control Module loading complete.
+2022-08-11/15:04:01 [I027] Jennifer-DirectoryModificationProcessor start
+2022-08-11/15:04:01 [I013] Agent network thread warming up...
+2022-08-11/15:04:01 [I013] Nio connection timeout = 8000ms
+2022-08-11/15:04:01 [I013] Nio selection timeout = 100ms
+2022-08-11/15:04:01 [I003] CPU : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-08-11/15:04:01 [I004] Memory : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-08-11/15:04:01 [I001] java.nio.file.FileSystems initialize.
+2022-08-11/15:04:04 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.ConnectException: Connection refused: no further information), retry after 4000ms
+2022-08-11/15:04:05 [I001] JDBC Context: org.apache.naming.NamingContext
+2022-08-11/15:04:07 [I001] loading runtime module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jdk6-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.rt-5.6.0.10.jar
+2022-08-11/15:04:07 [I001] loading ClassLoader : aries.base.AgentClassLoader@67aa61ef, java.net.URLClassLoader@421faab1
+2022-08-11/15:04:07 [I001] runtime module URL => file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jdk6-5.6.0.10.jar!/aries/runtime/ModuleMain.class
+2022-08-11/15:04:07 [I001] Runtime Module initialized
+2022-08-11/15:04:08 [I001] Profile WrapperFactoryImpl implements WrapperFactory
+2022-08-11/15:04:08 [I010] Jennifer-PerformanceRecorderManager start
+2022-08-11/15:04:08 [I031] Jennifer-AutoMethodProfilerStartStop start
+2022-08-11/15:04:08 [I010] Jennifer-JMXDataSourceRecorder start
+2022-08-11/15:04:08 [I012] DataSourceRecorder wait initial time for jmx server = [60000]
+2022-08-11/15:04:08 [I010] Jennifer-ActiveServiceSummary start
+2022-08-11/15:04:08 [I010] Jennifer-ThreadAutoKillWorker start
+2022-08-11/15:04:08 [I001] Runtime Module loading complete... 
+2022-08-11/15:04:08 [I010] StackTrace collector warming up during 60000 ms
+2022-08-11/15:04:10 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.ConnectException: Connection refused: no further information), retry after 4000ms
+2022-08-11/15:04:16 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.ConnectException: Connection refused: no further information), retry after 4000ms
+2022-08-11/15:04:22 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.ConnectException: Connection refused: no further information), retry after 4000ms
+2022-08-11/15:04:27 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:04:27 [I001] new seed for id generator : 7017791720122624510
+2022-08-11/15:04:27 [I001] assign new instance id : 10000
+2022-08-11/15:04:27 [I001] save instance id in agent config file
+2022-08-11/15:04:27 [I001] Instance ID : 10000
+2022-08-11/15:04:27 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:04:28 [I001] Agent config file loading = C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\conf\test.conf (2022-08-11 15:04 27)
+2022-08-11/15:04:28 [I001] Agent settings set in system properties
+2022-08-11/15:04:28 [I001] Agent settings set in system environment

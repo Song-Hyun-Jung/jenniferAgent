@@ -1,0 +1,295 @@
+2022-11-08/16:00:26 [I023] Agent own advanced option is found : server_address = [192.168.20.28]
+2022-11-08/16:00:26 [I023] Agent own advanced option is found : server_port = [5000]
+2022-11-08/16:00:26 [I023] Agent own advanced option is found : domain_id = [1000]
+2022-11-08/16:00:26 [I023] Agent own advanced option is found : inst_id = [10000]
+2022-11-08/16:00:26 [I023] Agent own advanced option is found : log_encoding = [UTF-8]
+2022-11-08/16:00:26 [I023] Agent own advanced option is found : log_rotation = [true]
+2022-11-08/16:00:26 [I023] Agent own advanced option is found : log_level = [1]
+2022-11-08/16:00:26 [I001] jar:file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jar loaded by System ClassLoader.(false)
+2022-11-08/16:00:26 [I001] Agent initialized
+2022-11-08/16:00:26 [I001] loading control module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar
+2022-11-08/16:00:26 [I001] Agent Enable : true
+2022-11-08/16:00:26 [I001] Agent Base Version 5.6.0
+2022-11-08/16:00:26 [I001] Agent Implementation Version 5.6.0.10
+2022-11-08/16:00:26 [I001] System Environment Information
+2022-11-08/16:00:26 [I001]  Java Home : C:\Program Files\Java\jdk1.8.0_201\jre
+2022-11-08/16:00:26 [I001]  Java ClassPath :
+2022-11-08/16:00:26 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\bootstrap.jar
+2022-11-08/16:00:26 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\tomcat-juli.jar
+2022-11-08/16:00:26 [I001]   C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-11-08/16:00:26 [I001]  Java Vendor : Oracle Corporation
+2022-11-08/16:00:26 [I001]  Java Version : 1.8.0_201
+2022-11-08/16:00:26 [I001]  Java VM Name : Java HotSpot(TM) 64-Bit Server VM
+2022-11-08/16:00:26 [I001]  Java VM Vendor : Oracle Corporation
+2022-11-08/16:00:26 [I001]  Java VM Version : 25.201-b09
+2022-11-08/16:00:26 [I001]  Available Processors : 4
+2022-11-08/16:00:26 [I001]  Host Name : DESKTOP-IUPDB12
+2022-11-08/16:00:26 [I001]  OS Name : Windows 10
+2022-11-08/16:00:26 [I001]  OS Arch : amd64
+2022-11-08/16:00:26 [I001]  OS Version : 10.0
+2022-11-08/16:00:26 [I026] sun.boot.class.path : 
+2022-11-08/16:00:26 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar
+2022-11-08/16:00:26 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar
+2022-11-08/16:00:26 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar
+2022-11-08/16:00:26 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar
+2022-11-08/16:00:26 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar
+2022-11-08/16:00:26 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar
+2022-11-08/16:00:26 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar
+2022-11-08/16:00:26 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\classes
+2022-11-08/16:00:26 [I001]  C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-11-08/16:00:26 [I001] Data Server address : 192.168.20.28
+2022-11-08/16:00:26 [I001] Data Server port : 5000
+2022-11-08/16:00:26 [I001] Domain ID : 1000
+2022-11-08/16:00:26 [I001] Instance ID : 10000
+2022-11-08/16:00:26 [I001] Log dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs
+2022-11-08/16:00:26 [I001] Log file : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs\agent_20221108_1000_10000.log
+2022-11-08/16:00:26 [I001] Log encoding : UTF-8
+2022-11-08/16:00:26 [I001] Log rotation : true
+2022-11-08/16:00:26 [I001] Log max age  : 0
+2022-11-08/16:00:26 [I001] Log level : 1
+2022-11-08/16:00:26 [I001] Debug mode : false
+2022-11-08/16:00:26 [I001] Dump mode : false
+2022-11-08/16:00:26 [I001] Dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/class_dump
+2022-11-08/16:00:26 [I001] Service dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/service_dump
+2022-11-08/16:00:26 [I001] max bucket size of collection : 5000
+2022-11-08/16:00:26 [I001] max bucket size of socket : 5000
+2022-11-08/16:00:26 [I001] max bucket size of file : 5000
+2022-11-08/16:00:26 [I001] Agent settings set in system environment
+2022-11-08/16:00:26 [I001] Agent settings set in system properties
+2022-11-08/16:00:26 [I001] Control Module initialized(3761975982568994040)
+2022-11-08/16:00:27 [I010] Jennifer-ControlModuleProcessor start
+2022-11-08/16:00:27 [I027] Jennifer-DirectoryModificationProcessor start
+2022-11-08/16:00:27 [I001] no native lib on '/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/libs
+2022-11-08/16:00:27 [I001] Control Module loading complete.
+2022-11-08/16:00:27 [I003] CPU : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-11-08/16:00:27 [I004] Memory : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-11-08/16:00:27 [I001] java.nio.file.FileSystems initialize.
+2022-11-08/16:00:27 [I013] Agent network thread warming up...
+2022-11-08/16:00:27 [I013] Nio connection timeout = 8000ms
+2022-11-08/16:00:27 [I013] Nio selection timeout = 100ms
+2022-11-08/16:00:32 [I001] JDBC Context: org.apache.naming.NamingContext
+2022-11-08/16:00:33 [I001] loading runtime module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jdk6-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.rt-5.6.0.10.jar
+2022-11-08/16:00:33 [I001] loading ClassLoader : aries.base.AgentClassLoader@420d208e, java.net.URLClassLoader@421faab1
+2022-11-08/16:00:33 [I001] runtime module URL => file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jdk6-5.6.0.10.jar!/aries/runtime/ModuleMain.class
+2022-11-08/16:00:33 [I001] Runtime Module initialized
+2022-11-08/16:00:33 [I001] Profile WrapperFactoryImpl implements WrapperFactory
+2022-11-08/16:00:34 [I010] Jennifer-PerformanceRecorderManager start
+2022-11-08/16:00:34 [I010] Jennifer-ActiveServiceSummary start
+2022-11-08/16:00:34 [I010] Jennifer-JMXDataSourceRecorder start
+2022-11-08/16:00:34 [I012] DataSourceRecorder wait initial time for jmx server = [60000]
+2022-11-08/16:00:34 [I001] Runtime Module loading complete... 
+2022-11-08/16:00:34 [I031] Jennifer-AutoMethodProfilerStartStop start
+2022-11-08/16:00:34 [I010] Jennifer-ThreadAutoKillWorker start
+2022-11-08/16:00:34 [I010] StackTrace collector warming up during 60000 ms
+2022-11-08/16:00:36 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:00:48 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:01:00 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:01:12 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:01:24 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:01:36 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:01:48 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:02:00 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:02:12 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:02:24 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:02:36 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:02:48 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:03:00 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:03:12 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:03:24 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:03:36 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:03:49 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:04:01 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:04:13 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:04:25 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:04:37 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:04:49 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:05:01 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:05:13 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:05:25 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:05:37 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:05:49 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:06:01 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:06:13 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:06:25 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:06:37 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:06:49 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:07:01 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:07:13 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:07:25 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:07:37 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:07:49 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:08:01 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:08:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:08:26 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:08:38 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:08:50 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:09:02 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:09:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:09:26 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:09:38 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:09:50 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:10:02 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:10:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:10:26 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:10:38 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:10:50 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:11:02 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:11:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:11:26 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:11:38 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:11:50 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:12:02 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:12:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:12:26 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:12:38 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:12:51 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:13:03 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:13:15 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:13:27 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:13:39 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:13:51 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:15:03 [I023] Agent own advanced option is found : server_address = [192.168.20.28]
+2022-11-08/16:15:03 [I023] Agent own advanced option is found : server_port = [5000]
+2022-11-08/16:15:03 [I023] Agent own advanced option is found : domain_id = [1000]
+2022-11-08/16:15:03 [I023] Agent own advanced option is found : inst_id = [10000]
+2022-11-08/16:15:03 [I023] Agent own advanced option is found : log_encoding = [UTF-8]
+2022-11-08/16:15:03 [I023] Agent own advanced option is found : log_rotation = [true]
+2022-11-08/16:15:03 [I023] Agent own advanced option is found : log_level = [1]
+2022-11-08/16:15:03 [I001] jar:file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jar loaded by System ClassLoader.(false)
+2022-11-08/16:15:03 [I001] Agent initialized
+2022-11-08/16:15:03 [I001] loading control module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar
+2022-11-08/16:15:04 [I001] Agent Enable : true
+2022-11-08/16:15:04 [I001] Agent Base Version 5.6.0
+2022-11-08/16:15:04 [I001] Agent Implementation Version 5.6.0.10
+2022-11-08/16:15:04 [I001] System Environment Information
+2022-11-08/16:15:04 [I001]  Java Home : C:\Program Files\Java\jdk1.8.0_201\jre
+2022-11-08/16:15:04 [I001]  Java ClassPath :
+2022-11-08/16:15:04 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\bootstrap.jar
+2022-11-08/16:15:04 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\tomcat-juli.jar
+2022-11-08/16:15:04 [I001]   C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-11-08/16:15:04 [I001]  Java Vendor : Oracle Corporation
+2022-11-08/16:15:04 [I001]  Java Version : 1.8.0_201
+2022-11-08/16:15:04 [I001]  Java VM Name : Java HotSpot(TM) 64-Bit Server VM
+2022-11-08/16:15:04 [I001]  Java VM Vendor : Oracle Corporation
+2022-11-08/16:15:04 [I001]  Java VM Version : 25.201-b09
+2022-11-08/16:15:04 [I001]  Available Processors : 4
+2022-11-08/16:15:04 [I001]  Host Name : DESKTOP-IUPDB12
+2022-11-08/16:15:04 [I001]  OS Name : Windows 10
+2022-11-08/16:15:04 [I001]  OS Arch : amd64
+2022-11-08/16:15:04 [I001]  OS Version : 10.0
+2022-11-08/16:15:04 [I026] sun.boot.class.path : 
+2022-11-08/16:15:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar
+2022-11-08/16:15:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar
+2022-11-08/16:15:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar
+2022-11-08/16:15:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar
+2022-11-08/16:15:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar
+2022-11-08/16:15:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar
+2022-11-08/16:15:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar
+2022-11-08/16:15:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\classes
+2022-11-08/16:15:04 [I001]  C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-11-08/16:15:04 [I001] Data Server address : 192.168.20.28
+2022-11-08/16:15:04 [I001] Data Server port : 5000
+2022-11-08/16:15:04 [I001] Domain ID : 1000
+2022-11-08/16:15:04 [I001] Instance ID : 10000
+2022-11-08/16:15:04 [I001] Log dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs
+2022-11-08/16:15:04 [I001] Log file : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs\agent_20221108_1000_10000.log
+2022-11-08/16:15:04 [I001] Log encoding : UTF-8
+2022-11-08/16:15:04 [I001] Log rotation : true
+2022-11-08/16:15:04 [I001] Log max age  : 0
+2022-11-08/16:15:04 [I001] Log level : 1
+2022-11-08/16:15:04 [I001] Debug mode : false
+2022-11-08/16:15:04 [I001] Dump mode : false
+2022-11-08/16:15:04 [I001] Dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/class_dump
+2022-11-08/16:15:04 [I001] Service dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/service_dump
+2022-11-08/16:15:04 [I001] max bucket size of collection : 5000
+2022-11-08/16:15:04 [I001] max bucket size of socket : 5000
+2022-11-08/16:15:04 [I001] max bucket size of file : 5000
+2022-11-08/16:15:04 [I001] Agent settings set in system environment
+2022-11-08/16:15:04 [I001] Agent settings set in system properties
+2022-11-08/16:15:04 [I001] Control Module initialized(3630517250493020331)
+2022-11-08/16:15:04 [I010] Jennifer-ControlModuleProcessor start
+2022-11-08/16:15:04 [I001] no native lib on '/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/libs
+2022-11-08/16:15:04 [I027] Jennifer-DirectoryModificationProcessor start
+2022-11-08/16:15:04 [I001] Control Module loading complete.
+2022-11-08/16:15:04 [I003] CPU : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-11-08/16:15:04 [I004] Memory : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-11-08/16:15:05 [I001] java.nio.file.FileSystems initialize.
+2022-11-08/16:15:05 [I013] Agent network thread warming up...
+2022-11-08/16:15:05 [I013] Nio connection timeout = 8000ms
+2022-11-08/16:15:05 [I013] Nio selection timeout = 100ms
+2022-11-08/16:15:08 [I001] JDBC Context: org.apache.naming.NamingContext
+2022-11-08/16:15:10 [I001] loading runtime module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jdk6-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.rt-5.6.0.10.jar
+2022-11-08/16:15:10 [I001] loading ClassLoader : aries.base.AgentClassLoader@69959639, java.net.URLClassLoader@421faab1
+2022-11-08/16:15:10 [I001] runtime module URL => file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jdk6-5.6.0.10.jar!/aries/runtime/ModuleMain.class
+2022-11-08/16:15:10 [I001] Runtime Module initialized
+2022-11-08/16:15:10 [I001] Profile WrapperFactoryImpl implements WrapperFactory
+2022-11-08/16:15:10 [I010] Jennifer-ActiveServiceSummary start
+2022-11-08/16:15:10 [I010] Jennifer-PerformanceRecorderManager start
+2022-11-08/16:15:10 [I010] Jennifer-JMXDataSourceRecorder start
+2022-11-08/16:15:10 [I012] DataSourceRecorder wait initial time for jmx server = [60000]
+2022-11-08/16:15:10 [I001] Runtime Module loading complete... 
+2022-11-08/16:15:10 [I010] Jennifer-ThreadAutoKillWorker start
+2022-11-08/16:15:10 [I031] Jennifer-AutoMethodProfilerStartStop start
+2022-11-08/16:15:10 [I010] StackTrace collector warming up during 60000 ms
+2022-11-08/16:15:13 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:15:25 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:15:37 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:15:49 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:16:01 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:16:13 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:16:25 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:16:37 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:16:49 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:17:01 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:17:13 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:17:25 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:17:38 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:17:50 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:18:02 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:18:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:18:26 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:18:38 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:18:50 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:19:02 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:19:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:19:26 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:19:38 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:19:50 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:20:02 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:20:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:20:26 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:20:38 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:20:50 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:21:02 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:21:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:21:26 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:21:38 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:21:50 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:22:03 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:22:15 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:22:27 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:22:39 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:22:51 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:23:03 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:23:15 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:23:27 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:23:39 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:23:51 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:24:03 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:24:15 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:24:27 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:24:39 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:24:51 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:25:03 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:25:15 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:25:27 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:25:39 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:25:51 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:26:03 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:26:15 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:26:27 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:26:40 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:26:52 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:27:04 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:27:16 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-11-08/16:27:28 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms

@@ -1,0 +1,811 @@
+2022-08-17/14:33:05 [I023] Agent own advanced option is found : server_address = [192.168.10.80]
+2022-08-17/14:33:05 [I023] Agent own advanced option is found : server_port = [5000]
+2022-08-17/14:33:05 [I023] Agent own advanced option is found : domain_id = [1000]
+2022-08-17/14:33:05 [I023] Agent own advanced option is found : inst_id = [10000]
+2022-08-17/14:33:05 [I023] Agent own advanced option is found : log_encoding = [UTF-8]
+2022-08-17/14:33:05 [I023] Agent own advanced option is found : log_rotation = [true]
+2022-08-17/14:33:05 [I023] Agent own advanced option is found : log_level = [1]
+2022-08-17/14:33:05 [I001] jar:file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jar loaded by System ClassLoader.(false)
+2022-08-17/14:33:05 [I001] Agent initialized
+2022-08-17/14:33:05 [I001] loading control module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar
+2022-08-17/14:33:05 [I001] Agent Enable : true
+2022-08-17/14:33:05 [I001] Agent Base Version 5.6.0
+2022-08-17/14:33:05 [I001] Agent Implementation Version 5.6.0.10
+2022-08-17/14:33:05 [I001] System Environment Information
+2022-08-17/14:33:05 [I001]  Java Home : C:\Program Files\Java\jdk1.8.0_201\jre
+2022-08-17/14:33:05 [I001]  Java ClassPath :
+2022-08-17/14:33:05 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\bootstrap.jar
+2022-08-17/14:33:05 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\tomcat-juli.jar
+2022-08-17/14:33:05 [I001]   C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-08-17/14:33:05 [I001]  Java Vendor : Oracle Corporation
+2022-08-17/14:33:05 [I001]  Java Version : 1.8.0_201
+2022-08-17/14:33:05 [I001]  Java VM Name : Java HotSpot(TM) 64-Bit Server VM
+2022-08-17/14:33:05 [I001]  Java VM Vendor : Oracle Corporation
+2022-08-17/14:33:05 [I001]  Java VM Version : 25.201-b09
+2022-08-17/14:33:05 [I001]  Available Processors : 4
+2022-08-17/14:33:05 [I001]  Host Name : DESKTOP-IUPDB12
+2022-08-17/14:33:05 [I001]  OS Name : Windows 10
+2022-08-17/14:33:05 [I001]  OS Arch : amd64
+2022-08-17/14:33:05 [I001]  OS Version : 10.0
+2022-08-17/14:33:05 [I026] sun.boot.class.path : 
+2022-08-17/14:33:05 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar
+2022-08-17/14:33:05 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar
+2022-08-17/14:33:05 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar
+2022-08-17/14:33:05 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar
+2022-08-17/14:33:05 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar
+2022-08-17/14:33:05 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar
+2022-08-17/14:33:05 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar
+2022-08-17/14:33:05 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\classes
+2022-08-17/14:33:05 [I001]  C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-08-17/14:33:05 [I001] Data Server address : 192.168.10.80
+2022-08-17/14:33:05 [I001] Data Server port : 5000
+2022-08-17/14:33:05 [I001] Domain ID : 1000
+2022-08-17/14:33:05 [I001] Instance ID : 10000
+2022-08-17/14:33:05 [I001] Log dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs
+2022-08-17/14:33:05 [I001] Log file : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs\agent_20220817_1000_10000.log
+2022-08-17/14:33:05 [I001] Log encoding : UTF-8
+2022-08-17/14:33:05 [I001] Log rotation : true
+2022-08-17/14:33:05 [I001] Log max age  : 0
+2022-08-17/14:33:05 [I001] Log level : 1
+2022-08-17/14:33:05 [I001] Debug mode : false
+2022-08-17/14:33:05 [I001] Dump mode : false
+2022-08-17/14:33:05 [I001] Dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/class_dump
+2022-08-17/14:33:05 [I001] Service dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/service_dump
+2022-08-17/14:33:05 [I001] max bucket size of collection : 5000
+2022-08-17/14:33:05 [I001] max bucket size of socket : 5000
+2022-08-17/14:33:05 [I001] max bucket size of file : 5000
+2022-08-17/14:33:05 [I001] Agent settings set in system environment
+2022-08-17/14:33:05 [I001] Agent settings set in system properties
+2022-08-17/14:33:05 [I001] Control Module initialized(3761413005939584499)
+2022-08-17/14:33:06 [I010] Jennifer-ControlModuleProcessor start
+2022-08-17/14:33:06 [I001] no native lib on '/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/libs
+2022-08-17/14:33:06 [I027] Jennifer-DirectoryModificationProcessor start
+2022-08-17/14:33:06 [I003] CPU : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-08-17/14:33:06 [I004] Memory : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-08-17/14:33:06 [I001] java.nio.file.FileSystems initialize.
+2022-08-17/14:33:06 [I001] Control Module loading complete.
+2022-08-17/14:33:07 [I013] Agent network thread warming up...
+2022-08-17/14:33:07 [I013] Nio connection timeout = 8000ms
+2022-08-17/14:33:07 [I013] Nio selection timeout = 100ms
+2022-08-17/14:33:12 [I001] JDBC Context: org.apache.naming.NamingContext
+2022-08-17/14:33:15 [I001] loading runtime module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jdk6-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.rt-5.6.0.10.jar
+2022-08-17/14:33:15 [I001] loading ClassLoader : aries.base.AgentClassLoader@61838908, java.net.URLClassLoader@421faab1
+2022-08-17/14:33:15 [I001] runtime module URL => file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jdk6-5.6.0.10.jar!/aries/runtime/ModuleMain.class
+2022-08-17/14:33:15 [I001] Runtime Module initialized
+2022-08-17/14:33:15 [I001] Profile WrapperFactoryImpl implements WrapperFactory
+2022-08-17/14:33:15 [I010] Jennifer-PerformanceRecorderManager start
+2022-08-17/14:33:15 [I010] Jennifer-JMXDataSourceRecorder start
+2022-08-17/14:33:15 [I012] DataSourceRecorder wait initial time for jmx server = [60000]
+2022-08-17/14:33:15 [I010] Jennifer-ActiveServiceSummary start
+2022-08-17/14:33:15 [I010] Jennifer-ThreadAutoKillWorker start
+2022-08-17/14:33:15 [I031] Jennifer-AutoMethodProfilerStartStop start
+2022-08-17/14:33:15 [I001] Runtime Module loading complete... 
+2022-08-17/14:33:15 [I010] StackTrace collector warming up during 60000 ms
+2022-08-17/14:33:16 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:33:29 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:33:41 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:33:54 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:34:04 [I023] Agent own advanced option is found : server_address = [192.168.10.80]
+2022-08-17/14:34:04 [I023] Agent own advanced option is found : server_port = [5000]
+2022-08-17/14:34:04 [I023] Agent own advanced option is found : domain_id = [1000]
+2022-08-17/14:34:04 [I023] Agent own advanced option is found : inst_id = [10000]
+2022-08-17/14:34:04 [I023] Agent own advanced option is found : log_encoding = [UTF-8]
+2022-08-17/14:34:04 [I023] Agent own advanced option is found : log_rotation = [true]
+2022-08-17/14:34:04 [I023] Agent own advanced option is found : log_level = [1]
+2022-08-17/14:34:04 [I001] jar:file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jar loaded by System ClassLoader.(false)
+2022-08-17/14:34:04 [I001] Agent initialized
+2022-08-17/14:34:04 [I001] loading control module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar
+2022-08-17/14:34:04 [I001] Agent Enable : true
+2022-08-17/14:34:04 [I001] Agent Base Version 5.6.0
+2022-08-17/14:34:04 [I001] Agent Implementation Version 5.6.0.10
+2022-08-17/14:34:04 [I001] System Environment Information
+2022-08-17/14:34:04 [I001]  Java Home : C:\Program Files\Java\jdk1.8.0_201\jre
+2022-08-17/14:34:04 [I001]  Java ClassPath :
+2022-08-17/14:34:04 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\bootstrap.jar
+2022-08-17/14:34:04 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\tomcat-juli.jar
+2022-08-17/14:34:04 [I001]   C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-08-17/14:34:04 [I001]  Java Vendor : Oracle Corporation
+2022-08-17/14:34:04 [I001]  Java Version : 1.8.0_201
+2022-08-17/14:34:04 [I001]  Java VM Name : Java HotSpot(TM) 64-Bit Server VM
+2022-08-17/14:34:04 [I001]  Java VM Vendor : Oracle Corporation
+2022-08-17/14:34:04 [I001]  Java VM Version : 25.201-b09
+2022-08-17/14:34:04 [I001]  Available Processors : 4
+2022-08-17/14:34:04 [I001]  Host Name : DESKTOP-IUPDB12
+2022-08-17/14:34:04 [I001]  OS Name : Windows 10
+2022-08-17/14:34:04 [I001]  OS Arch : amd64
+2022-08-17/14:34:04 [I001]  OS Version : 10.0
+2022-08-17/14:34:04 [I026] sun.boot.class.path : 
+2022-08-17/14:34:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar
+2022-08-17/14:34:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar
+2022-08-17/14:34:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar
+2022-08-17/14:34:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar
+2022-08-17/14:34:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar
+2022-08-17/14:34:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar
+2022-08-17/14:34:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar
+2022-08-17/14:34:04 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\classes
+2022-08-17/14:34:04 [I001]  C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-08-17/14:34:04 [I001] Data Server address : 192.168.10.80
+2022-08-17/14:34:04 [I001] Data Server port : 5000
+2022-08-17/14:34:04 [I001] Domain ID : 1000
+2022-08-17/14:34:04 [I001] Instance ID : 10000
+2022-08-17/14:34:04 [I001] Log dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs
+2022-08-17/14:34:04 [I001] Log file : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs\agent_20220817_1000_10000.log
+2022-08-17/14:34:04 [I001] Log encoding : UTF-8
+2022-08-17/14:34:04 [I001] Log rotation : true
+2022-08-17/14:34:04 [I001] Log max age  : 0
+2022-08-17/14:34:04 [I001] Log level : 1
+2022-08-17/14:34:04 [I001] Debug mode : false
+2022-08-17/14:34:04 [I001] Dump mode : false
+2022-08-17/14:34:04 [I001] Dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/class_dump
+2022-08-17/14:34:04 [I001] Service dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/service_dump
+2022-08-17/14:34:04 [I001] max bucket size of collection : 5000
+2022-08-17/14:34:04 [I001] max bucket size of socket : 5000
+2022-08-17/14:34:04 [I001] max bucket size of file : 5000
+2022-08-17/14:34:04 [I001] Agent settings set in system environment
+2022-08-17/14:34:04 [I001] Agent settings set in system properties
+2022-08-17/14:34:04 [I001] Control Module initialized(4134927212040320254)
+2022-08-17/14:34:05 [I010] Jennifer-ControlModuleProcessor start
+2022-08-17/14:34:05 [I001] no native lib on '/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/libs
+2022-08-17/14:34:05 [I027] Jennifer-DirectoryModificationProcessor start
+2022-08-17/14:34:05 [I001] Control Module loading complete.
+2022-08-17/14:34:05 [I003] CPU : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-08-17/14:34:05 [I004] Memory : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-08-17/14:34:05 [I001] java.nio.file.FileSystems initialize.
+2022-08-17/14:34:05 [I013] Agent network thread warming up...
+2022-08-17/14:34:05 [I013] Nio connection timeout = 8000ms
+2022-08-17/14:34:05 [I013] Nio selection timeout = 100ms
+2022-08-17/14:34:08 [I001] JDBC Context: org.apache.naming.NamingContext
+2022-08-17/14:34:10 [I001] loading runtime module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jdk6-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.rt-5.6.0.10.jar
+2022-08-17/14:34:10 [I001] loading ClassLoader : aries.base.AgentClassLoader@6f4183ee, java.net.URLClassLoader@421faab1
+2022-08-17/14:34:10 [I001] runtime module URL => file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jdk6-5.6.0.10.jar!/aries/runtime/ModuleMain.class
+2022-08-17/14:34:10 [I001] Runtime Module initialized
+2022-08-17/14:34:10 [I001] Profile WrapperFactoryImpl implements WrapperFactory
+2022-08-17/14:34:10 [I010] Jennifer-PerformanceRecorderManager start
+2022-08-17/14:34:10 [I010] Jennifer-ActiveServiceSummary start
+2022-08-17/14:34:10 [I010] Jennifer-ThreadAutoKillWorker start
+2022-08-17/14:34:10 [I031] Jennifer-AutoMethodProfilerStartStop start
+2022-08-17/14:34:10 [I010] Jennifer-JMXDataSourceRecorder start
+2022-08-17/14:34:10 [I012] DataSourceRecorder wait initial time for jmx server = [60000]
+2022-08-17/14:34:10 [I001] Runtime Module loading complete... 
+2022-08-17/14:34:10 [I010] StackTrace collector warming up during 60000 ms
+2022-08-17/14:34:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:34:27 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:34:40 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:34:53 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:35:05 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:35:18 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:35:31 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:35:44 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:35:57 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:36:10 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:36:22 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:36:35 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:36:48 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:37:01 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:37:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:37:27 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:37:39 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:37:52 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:38:05 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:38:18 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:38:31 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:38:44 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:38:56 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:39:09 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:39:22 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:39:35 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:39:48 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:40:00 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:40:13 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:40:26 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:40:39 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:40:52 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:41:04 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:41:17 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:41:30 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:41:43 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:41:56 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:42:09 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:42:21 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:42:34 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:42:47 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:43:00 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:43:13 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:43:25 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:43:38 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:43:51 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:44:04 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:44:16 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:44:29 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:44:42 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:44:55 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:45:08 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:45:20 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:45:33 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:45:46 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:45:59 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:46:12 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:46:24 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:46:37 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:46:50 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:47:03 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:47:15 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:47:28 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:47:41 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:47:54 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:48:07 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:48:19 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:48:32 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:48:45 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:48:58 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:49:11 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:49:23 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:49:36 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:49:49 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:50:02 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:50:15 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:50:27 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:50:40 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:50:53 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:51:06 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:51:19 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:51:32 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:51:44 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:51:57 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:52:10 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:52:23 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:52:36 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:52:48 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:53:01 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:53:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:53:27 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:53:39 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:53:52 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:54:05 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:54:18 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:54:31 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:54:43 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:54:56 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:55:09 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:55:22 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:55:34 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:55:47 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:56:00 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:56:04 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.SocketException: Network is unreachable: no further information), retry after 4000ms
+2022-08-17/14:56:12 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.SocketException: Network is unreachable: no further information), retry after 4000ms
+2022-08-17/14:56:25 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:56:37 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:56:50 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:57:03 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:57:16 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:57:28 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:57:41 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:58:01 [I023] Agent own advanced option is found : server_address = [192.168.10.80]
+2022-08-17/14:58:01 [I023] Agent own advanced option is found : server_port = [5000]
+2022-08-17/14:58:01 [I023] Agent own advanced option is found : domain_id = [1000]
+2022-08-17/14:58:01 [I023] Agent own advanced option is found : inst_id = [10000]
+2022-08-17/14:58:01 [I023] Agent own advanced option is found : log_encoding = [UTF-8]
+2022-08-17/14:58:01 [I023] Agent own advanced option is found : log_rotation = [true]
+2022-08-17/14:58:01 [I023] Agent own advanced option is found : log_level = [1]
+2022-08-17/14:58:01 [I001] jar:file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jar loaded by System ClassLoader.(false)
+2022-08-17/14:58:01 [I001] Agent initialized
+2022-08-17/14:58:01 [I001] loading control module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar
+2022-08-17/14:58:02 [I001] Agent Enable : true
+2022-08-17/14:58:02 [I001] Agent Base Version 5.6.0
+2022-08-17/14:58:02 [I001] Agent Implementation Version 5.6.0.10
+2022-08-17/14:58:02 [I001] System Environment Information
+2022-08-17/14:58:02 [I001]  Java Home : C:\Program Files\Java\jdk1.8.0_201\jre
+2022-08-17/14:58:02 [I001]  Java ClassPath :
+2022-08-17/14:58:02 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\bootstrap.jar
+2022-08-17/14:58:02 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\tomcat-juli.jar
+2022-08-17/14:58:02 [I001]   C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-08-17/14:58:02 [I001]  Java Vendor : Oracle Corporation
+2022-08-17/14:58:02 [I001]  Java Version : 1.8.0_201
+2022-08-17/14:58:02 [I001]  Java VM Name : Java HotSpot(TM) 64-Bit Server VM
+2022-08-17/14:58:02 [I001]  Java VM Vendor : Oracle Corporation
+2022-08-17/14:58:02 [I001]  Java VM Version : 25.201-b09
+2022-08-17/14:58:02 [I001]  Available Processors : 4
+2022-08-17/14:58:02 [I001]  Host Name : DESKTOP-IUPDB12
+2022-08-17/14:58:02 [I001]  OS Name : Windows 10
+2022-08-17/14:58:02 [I001]  OS Arch : amd64
+2022-08-17/14:58:02 [I001]  OS Version : 10.0
+2022-08-17/14:58:02 [I026] sun.boot.class.path : 
+2022-08-17/14:58:02 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar
+2022-08-17/14:58:02 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar
+2022-08-17/14:58:02 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar
+2022-08-17/14:58:02 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar
+2022-08-17/14:58:02 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar
+2022-08-17/14:58:02 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar
+2022-08-17/14:58:02 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar
+2022-08-17/14:58:02 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\classes
+2022-08-17/14:58:02 [I001]  C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-08-17/14:58:02 [I001] Data Server address : 192.168.10.80
+2022-08-17/14:58:02 [I001] Data Server port : 5000
+2022-08-17/14:58:02 [I001] Domain ID : 1000
+2022-08-17/14:58:02 [I001] Instance ID : 10000
+2022-08-17/14:58:02 [I001] Log dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs
+2022-08-17/14:58:02 [I001] Log file : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs\agent_20220817_1000_10000.log
+2022-08-17/14:58:02 [I001] Log encoding : UTF-8
+2022-08-17/14:58:02 [I001] Log rotation : true
+2022-08-17/14:58:02 [I001] Log max age  : 0
+2022-08-17/14:58:02 [I001] Log level : 1
+2022-08-17/14:58:02 [I001] Debug mode : false
+2022-08-17/14:58:02 [I001] Dump mode : false
+2022-08-17/14:58:02 [I001] Dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/class_dump
+2022-08-17/14:58:02 [I001] Service dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/service_dump
+2022-08-17/14:58:02 [I001] max bucket size of collection : 5000
+2022-08-17/14:58:02 [I001] max bucket size of socket : 5000
+2022-08-17/14:58:02 [I001] max bucket size of file : 5000
+2022-08-17/14:58:02 [I001] Agent settings set in system environment
+2022-08-17/14:58:02 [I001] Agent settings set in system properties
+2022-08-17/14:58:02 [I001] Control Module initialized(7161905598115621631)
+2022-08-17/14:58:02 [I010] Jennifer-ControlModuleProcessor start
+2022-08-17/14:58:02 [I001] no native lib on '/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/libs
+2022-08-17/14:58:02 [I027] Jennifer-DirectoryModificationProcessor start
+2022-08-17/14:58:02 [I001] Control Module loading complete.
+2022-08-17/14:58:02 [I003] CPU : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-08-17/14:58:02 [I004] Memory : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-08-17/14:58:02 [I001] java.nio.file.FileSystems initialize.
+2022-08-17/14:58:02 [I013] Agent network thread warming up...
+2022-08-17/14:58:02 [I013] Nio connection timeout = 8000ms
+2022-08-17/14:58:02 [I013] Nio selection timeout = 100ms
+2022-08-17/14:58:06 [I001] JDBC Context: org.apache.naming.NamingContext
+2022-08-17/14:58:08 [I001] loading runtime module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jdk6-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.rt-5.6.0.10.jar
+2022-08-17/14:58:08 [I001] loading ClassLoader : aries.base.AgentClassLoader@10bb5d2c, java.net.URLClassLoader@421faab1
+2022-08-17/14:58:08 [I001] runtime module URL => file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jdk6-5.6.0.10.jar!/aries/runtime/ModuleMain.class
+2022-08-17/14:58:08 [I001] Runtime Module initialized
+2022-08-17/14:58:08 [I001] Profile WrapperFactoryImpl implements WrapperFactory
+2022-08-17/14:58:08 [I010] Jennifer-ActiveServiceSummary start
+2022-08-17/14:58:08 [I010] Jennifer-PerformanceRecorderManager start
+2022-08-17/14:58:08 [I010] Jennifer-JMXDataSourceRecorder start
+2022-08-17/14:58:08 [I012] DataSourceRecorder wait initial time for jmx server = [60000]
+2022-08-17/14:58:08 [I001] Runtime Module loading complete... 
+2022-08-17/14:58:08 [I010] Jennifer-ThreadAutoKillWorker start
+2022-08-17/14:58:08 [I031] Jennifer-AutoMethodProfilerStartStop start
+2022-08-17/14:58:08 [I010] StackTrace collector warming up during 60000 ms
+2022-08-17/14:58:11 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:58:24 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:58:37 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:58:49 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:59:02 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:59:15 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:59:28 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:59:41 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/14:59:53 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:00:06 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:00:19 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:00:32 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:00:45 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:00:57 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:01:10 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:01:23 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:01:36 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:01:49 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:02:01 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:02:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:02:27 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:02:40 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:02:53 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:03:05 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:03:18 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:03:31 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:03:44 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:03:57 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:04:09 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:04:22 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:04:35 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:04:48 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:05:01 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:05:13 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:05:26 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:05:39 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:05:52 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:06:05 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:06:17 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:06:30 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:06:43 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:06:56 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:07:09 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:07:21 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:07:34 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:07:47 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:08:00 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:08:13 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:08:25 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:08:38 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:08:51 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:09:00 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.SocketException: Network is unreachable: no further information), retry after 4000ms
+2022-08-17/15:09:04 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.SocketException: Network is unreachable: no further information), retry after 4000ms
+2022-08-17/15:09:16 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:09:29 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:09:42 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:09:52 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.SocketException: Network is unreachable: no further information), retry after 4000ms
+2022-08-17/15:09:56 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.SocketException: Network is unreachable: no further information), retry after 4000ms
+2022-08-17/15:10:09 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:10:22 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:10:34 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:10:46 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:10:59 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:11:11 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:11:24 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:11:37 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:11:49 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:12:02 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:12:15 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:12:27 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:12:40 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:12:53 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:13:06 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:13:18 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:13:31 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:13:44 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:13:57 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:14:10 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:14:22 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:14:35 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:14:48 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:15:01 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:15:14 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:15:26 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:15:39 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:15:52 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:16:05 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:16:17 [I013] Cannot connect to data server(aries.nio.ConnectFailException: Selection is failed. may be connection time out), retry after 4000ms
+2022-08-17/15:16:29 [I001] Agent config file loading = C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\conf\test.conf (2022-08-17 15:16 28)
+2022-08-17/15:16:29 [I021] changed option value : server_address, before = [192.168.10.80], after = [192.168.20.28]
+2022-08-17/15:16:29 [I001] Agent settings set in system properties
+2022-08-17/15:16:29 [I001] Agent settings set in system environment
+2022-08-17/15:16:29 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:16:33 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:16:33 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:16:37 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:16:38 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:16:42 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:16:42 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:16:46 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:16:46 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:16:50 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:16:50 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:16:54 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:16:55 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:16:59 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:16:59 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:17:03 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:17:03 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:17:07 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:17:07 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:17:11 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:17:12 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:17:16 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:17:16 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:17:20 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:17:20 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:17:24 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:17:24 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:17:28 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:17:28 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:17:33 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:17:33 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:17:37 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:17:37 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:17:41 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:17:41 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:17:45 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.SocketException: Network is unreachable: no further information), retry after 4000ms
+2022-08-17/15:17:57 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.SocketException: Network is unreachable: no further information), retry after 4000ms
+2022-08-17/15:18:01 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:01 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:18:05 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:05 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:18:09 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:09 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:18:13 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:14 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:18:18 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:18 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:18:22 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:22 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:18:26 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:27 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:18:31 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:31 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:18:35 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:35 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:18:39 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:39 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:18:43 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:44 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:18:48 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:48 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:18:52 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:52 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:18:56 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:18:57 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:01 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:01 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:05 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:05 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:09 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:10 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:14 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:14 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:18 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:18 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:22 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:23 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:27 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:27 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:31 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:31 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:35 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:35 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:39 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:39 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:44 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:44 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:48 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:48 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:52 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:52 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:19:56 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:19:56 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:00 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:01 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:05 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:05 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:09 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:09 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:13 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:13 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:17 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:18 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:22 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:22 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:26 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:26 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:30 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:30 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:34 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:35 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:39 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:39 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:43 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:43 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:47 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:47 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:51 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:51 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:20:55 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:20:56 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:00 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:00 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:04 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:04 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:08 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:08 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:12 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:13 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:17 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:17 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:21 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:21 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:25 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:25 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:30 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:30 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:34 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:34 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:38 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:38 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:42 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:43 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:47 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:47 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:51 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:51 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:55 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:55 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:21:59 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:21:59 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:22:03 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:22:04 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:22:08 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:22:08 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:22:12 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:22:12 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:22:16 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:22:16 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:22:20 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:22:21 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:22:25 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:22:25 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:22:29 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:22:29 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:22:33 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:22:33 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:22:37 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:22:38 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:22:42 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:22:42 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:22:46 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:22:46 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:22:50 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:22:50 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:22:54 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.SocketException: Network is unreachable: no further information), retry after 4000ms
+2022-08-17/15:23:02 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.SocketException: Network is unreachable: no further information), retry after 4000ms
+2022-08-17/15:23:06 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:23:07 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:23:11 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:23:11 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:23:15 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:23:15 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:23:19 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:23:19 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:23:23 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:23:24 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:23:28 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:23:28 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:23:32 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:23:32 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:23:36 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:23:36 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:23:40 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:23:41 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:23:45 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:23:45 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:23:49 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:23:49 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:23:53 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:23:54 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:23:58 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:23:58 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:02 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:02 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:06 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:06 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:10 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:11 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:15 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:15 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:19 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:19 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:23 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:24 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:28 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:28 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:32 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:32 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:36 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:36 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:40 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:41 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:45 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:45 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:49 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:49 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:53 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:53 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:24:57 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:24:58 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:25:02 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:25:02 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:25:06 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:25:06 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:25:10 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:25:10 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:25:14 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:25:14 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:25:19 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:25:19 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:25:23 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:25:23 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:25:27 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:25:27 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:25:31 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:25:31 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:25:35 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:25:36 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:25:40 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:25:40 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:25:44 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:25:44 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:25:48 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-17/15:25:48 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:25:52 [I013] Data server session is created. connection=Local:192.168.20.28:65197-Remote:192.168.20.28:5000, serverVersion=5.6.0.27, ignoreAgentConfigFile=false
+2022-08-17/15:25:52 [I001] Clean Agent Text Buffer
+2022-08-17/15:25:53 [I022] changed advanced option value : service_naming_by_job_parameter, before = [], after = []
+2022-08-17/15:25:53 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 2ms
+2022-08-17/15:25:53 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 204ms
+2022-08-17/15:25:53 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:53 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 114ms
+2022-08-17/15:25:53 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:53 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 102ms
+2022-08-17/15:25:53 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:53 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 54ms
+2022-08-17/15:25:53 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:53 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 48ms
+2022-08-17/15:25:53 [I022] changed advanced option value : request_reject_type, before = [0], after = [message]
+2022-08-17/15:25:53 [I022] changed advanced option value : request_reject_message, before = [Workload is so high. Please, try again later!], after = []
+2022-08-17/15:25:53 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:53 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 60ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 151ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 98ms
+2022-08-17/15:25:54 [D005] [130:40:DynamicProfile_collectionOff] command execute elapsed time = 81ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 46ms
+2022-08-17/15:25:54 [I022] changed advanced option value : auto_profile_sampling_interval, before = [100], after = [1000]
+2022-08-17/15:25:54 [I022] changed advanced option value : auto_profile_method_elapsed_time, before = [100], after = [1000]
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 50ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 55ms
+2022-08-17/15:25:54 [I022] changed advanced option value : repetitive_call_reject_redirect_url, before = [], after = []
+2022-08-17/15:25:54 [I022] changed advanced option value : repetitive_call_reject_message, before = [], after = []
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 46ms
+2022-08-17/15:25:54 [I022] changed advanced option value : jennifer_front_hosting_url, before = [], after = [/?JENNIFER_FRONT_SCRIPT=True]
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 55ms
+2022-08-17/15:25:54 [D005] [120:70:AgentConfig_setTargetGuidExtractionSetting] command execute elapsed time = 44ms
+2022-08-17/15:25:54 [D005] [120:80:AgentConfig_setTargetUserIdExtractionSetting] command execute elapsed time = 60ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 229ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:54 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 133ms
+2022-08-17/15:25:55 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:55 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 43ms
+2022-08-17/15:25:55 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:55 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 30ms
+2022-08-17/15:25:55 [I022] changed advanced option value : jennifer_front_js, before = [], after = ["use strict";(function(){if(window.dmnActive!==undefined)return;window.dmnActive=true;window.dmnversion="1.0-apm";function logError(log){if(console)console.log("[AGENT] "+log)}try{var now=function now(){return(new Date).getTime()};var fetchAPM=function fetchAPM(data,url,txid){var collect=arguments.length>3&&arguments[3]!==undefined?arguments[3]:false;var xhr=null;xhr=new XMLHttpRequest;xhr._demianNotCollect=!collect;var timing=data.performance.timing;var docCompleteTime=timing.domComplete;var dnsLookup=timing.domainLookupEnd-timing.domainLookupStart;var reqTime=timing.responseStart-timing.connectStart;var respTime=timing.responseEnd-timing.responseStart;var domTime=timing.domContentLoadedEventEnd-timing.domLoading;var renderTime=docCompleteTime-timing.domContentLoadedEventEnd;var params="txid="+txid+"&dom="+domTime+"&render="+renderTime+"&dns="+dnsLookup+"&req="+reqTime+"&resp="+respTime;xhr.open("GET",url+"?"+params,true);xhr.setRequestHeader("aries-fem-enabled","true");xhr.send(data)};var sendData=function sendData(applicationId,pageId,url){var performance={};if(window.performance.timing){var t=window.performance.timing;performance.timing={navigationStart:t.navigationStart,unloadEventStart:t.unloadEventStart,unloadEventEnd:t.unloadEventEnd,redirectStart:t.redirectStart,redirectEnd:t.redirectEnd,fetchStart:t.fetchStart,domainLookupStart:t.domainLookupStart,domainLookupEnd:t.domainLookupEnd,connectStart:t.connectStart,connectEnd:t.connectEnd,secureConnectionStart:t.secureConnectionStart,requestStart:t.requestStart,responseStart:t.responseStart,responseEnd:t.responseEnd,domLoading:t.domLoading,domInteractive:t.domInteractive,domContentLoadedEventStart:t.domContentLoadedEventStart,domContentLoadedEventEnd:t.domContentLoadedEventEnd,domComplete:t.domComplete,loadEventStart:t.loadEventStart,loadEventEnd:t.loadEventEnd}}var body={url:url,performance:performance,extra:{}};var jenniferIntg=null;if(window.performance.getEntriesByType&&window.performance.timing){var navigation=window.performance.getEntriesByType("navigation");if(navigation&&navigation.length>0&&window.PerformanceNavigationTiming!=null&&navigation[0]instanceof window.PerformanceNavigationTiming&&navigation[0].serverTiming!=undefined){var timings=navigation[0].serverTiming;for(var i in timings){var timing=timings[i];if(timing.name=="jennifer-front"){jenniferIntg=timing.description}}}}if(jenniferIntg==null&&typeof window.dmnajennifer==="string"&&window.dmnajennifer!=="JENNIFER_FRONT@INTG"){var paramsText=window.dmnajennifer.split("@INTG");if(paramsText.length==2&&paramsText[1]!=""){jenniferIntg=paramsText[1]}}if(jenniferIntg!==null){try{var params=jenniferIntg.split(",");if(params!=null&&params.length==4){if(params[3]!="NOT_SEND"){fetchAPM(body,params[3],params[0])}}}catch(e){logError("PARSE TXID EXCEPTION: "+e.toString())}body.extra.jenniferIntg=jenniferIntg}};var main=function main(pageId){if(document.readyState!="complete"){window.addEventListener("load",function(){setTimeout(function(){sendData(null,pageId,url)},0)})}else{sendData(null,pageId,url)}};if(location.protocol!="http:"&&location.protocol!="https:")return;var url=location.href;if(url==null||url=="")return;if(window.performance==null||window.performance.timing==null||window.addEventListener==null){return}else{main(null)}}catch(e){logError("MAIN EXCEPTION: "+e.toString())}})();]
+2022-08-17/15:25:55 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:25:55 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 34ms
+2022-08-17/15:48:59 [I013] Data server connection is closed, retry after 4000ms
+2022-08-17/15:48:59 [I013] Data server session is expired. reason=java.io.IOException: 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다
+2022-08-17/15:49:07 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.SocketException: Network is unreachable: no further information), retry after 4000ms
+2022-08-17/15:49:11 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.SocketException: Network is unreachable: no further information), retry after 4000ms
+2022-08-17/15:49:15 [I013] Data server session is created. connection=Local:192.168.20.28:54604-Remote:192.168.20.28:5000, serverVersion=5.6.0.27, ignoreAgentConfigFile=false
+2022-08-17/15:49:15 [I001] Clean Agent Text Buffer
+2022-08-17/15:49:15 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:15 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 187ms
+2022-08-17/15:49:15 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:15 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 167ms
+2022-08-17/15:49:15 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:15 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 131ms
+2022-08-17/15:49:15 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:15 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 71ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 84ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 81ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 28ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 20ms
+2022-08-17/15:49:16 [D005] [130:40:DynamicProfile_collectionOff] command execute elapsed time = 18ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 20ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 19ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 21ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 32ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 31ms
+2022-08-17/15:49:16 [D005] [120:70:AgentConfig_setTargetGuidExtractionSetting] command execute elapsed time = 32ms
+2022-08-17/15:49:16 [D005] [120:80:AgentConfig_setTargetUserIdExtractionSetting] command execute elapsed time = 32ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 92ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 37ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 45ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 41ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 0ms
+2022-08-17/15:49:16 [D005] [120:102:AgentConfig_setAdvancedConfig] command execute elapsed time = 57ms
+2022-08-17/16:00:00 [I001] Clean Agent Text Buffer
+2022-08-17/16:00:00 [D005] [721:1:AgentTextControl_reset] command execute elapsed time = 0ms
+2022-08-17/16:36:31 [I013] Data server session is expired. reason=java.io.IOException: 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다
+2022-08-17/16:36:31 [I013] Data server connection is closed, retry after 4000ms

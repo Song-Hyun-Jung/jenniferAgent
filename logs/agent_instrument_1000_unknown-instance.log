@@ -1,0 +1,2 @@
+2022-08-11/15:04:04 [I001] [BCI DeployWarPointCut] org.apache.catalina.startup.HostConfig.deployWAR(Lorg/apache/catalina/util/ContextName;Ljava/io/File;)V
+2022-08-11/15:04:05 [I001] [BCI ContextPointCut] javax.naming.InitialContext

@@ -1,0 +1,271 @@
+2022-08-11/15:04:31 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:04:31 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:04:35 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:04:35 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:04:40 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:04:40 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:05:44 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:06:05 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:06:11 [I013] Cannot connect to data server(aries.nio.ConnectFailException: java.net.ConnectException: Connection refused: no further information), retry after 4000ms
+2022-08-11/15:07:45 [I001] jar:file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jar loaded by System ClassLoader.(false)
+2022-08-11/15:07:45 [I001] Agent initialized
+2022-08-11/15:07:45 [I001] loading control module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar
+2022-08-11/15:07:45 [I001] Agent Enable : true
+2022-08-11/15:07:45 [I001] Agent Base Version 5.6.0
+2022-08-11/15:07:45 [I001] Agent Implementation Version 5.6.0.10
+2022-08-11/15:07:45 [I001] System Environment Information
+2022-08-11/15:07:45 [I001]  Java Home : C:\Program Files\Java\jdk1.8.0_201\jre
+2022-08-11/15:07:45 [I001]  Java ClassPath :
+2022-08-11/15:07:45 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\bootstrap.jar
+2022-08-11/15:07:45 [I001]   C:\Users\unipoint\Downloads\apache-tomcat-10.0.23-windows-x64\apache-tomcat-10.0.23\bin\tomcat-juli.jar
+2022-08-11/15:07:45 [I001]   C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-08-11/15:07:45 [I001]  Java Vendor : Oracle Corporation
+2022-08-11/15:07:45 [I001]  Java Version : 1.8.0_201
+2022-08-11/15:07:45 [I001]  Java VM Name : Java HotSpot(TM) 64-Bit Server VM
+2022-08-11/15:07:45 [I001]  Java VM Vendor : Oracle Corporation
+2022-08-11/15:07:45 [I001]  Java VM Version : 25.201-b09
+2022-08-11/15:07:45 [I001]  Available Processors : 4
+2022-08-11/15:07:45 [I001]  Host Name : DESKTOP-IUPDB12
+2022-08-11/15:07:45 [I001]  OS Name : Windows 10
+2022-08-11/15:07:45 [I001]  OS Arch : amd64
+2022-08-11/15:07:45 [I001]  OS Version : 10.0
+2022-08-11/15:07:45 [I026] sun.boot.class.path : 
+2022-08-11/15:07:45 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar
+2022-08-11/15:07:45 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar
+2022-08-11/15:07:45 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar
+2022-08-11/15:07:45 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar
+2022-08-11/15:07:45 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar
+2022-08-11/15:07:45 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar
+2022-08-11/15:07:45 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar
+2022-08-11/15:07:45 [I001]  C:\Program Files\Java\jdk1.8.0_201\jre\classes
+2022-08-11/15:07:45 [I001]  C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jar
+2022-08-11/15:07:45 [I001] Data Server address : 192.168.10.80
+2022-08-11/15:07:45 [I001] Data Server port : 5000
+2022-08-11/15:07:45 [I001] Domain ID : 1000
+2022-08-11/15:07:45 [I001] Instance ID : 10000
+2022-08-11/15:07:45 [I001] Log dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs
+2022-08-11/15:07:45 [I001] Log file : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/logs\agent_20220811_1000_10000.log
+2022-08-11/15:07:45 [I001] Log encoding : UTF-8
+2022-08-11/15:07:45 [I001] Log rotation : true
+2022-08-11/15:07:45 [I001] Log max age  : 0
+2022-08-11/15:07:45 [I001] Log level : 1
+2022-08-11/15:07:45 [I001] Debug mode : false
+2022-08-11/15:07:45 [I001] Dump mode : false
+2022-08-11/15:07:45 [I001] Dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/class_dump
+2022-08-11/15:07:45 [I001] Service dump dir : /C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/service_dump
+2022-08-11/15:07:45 [I001] max bucket size of collection : 5000
+2022-08-11/15:07:45 [I001] max bucket size of socket : 5000
+2022-08-11/15:07:45 [I001] max bucket size of file : 5000
+2022-08-11/15:07:45 [I001] Agent settings set in system environment
+2022-08-11/15:07:45 [I001] Agent settings set in system properties
+2022-08-11/15:07:45 [I001] Control Module initialized(4063995518661045676)
+2022-08-11/15:07:46 [I010] Jennifer-ControlModuleProcessor start
+2022-08-11/15:07:46 [I001] no native lib on '/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/libs
+2022-08-11/15:07:46 [I001] Control Module loading complete.
+2022-08-11/15:07:46 [I027] Jennifer-DirectoryModificationProcessor start
+2022-08-11/15:07:46 [I013] Agent network thread warming up...
+2022-08-11/15:07:46 [I013] Nio connection timeout = 8000ms
+2022-08-11/15:07:46 [I013] Nio selection timeout = 100ms
+2022-08-11/15:07:46 [I003] CPU : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-08-11/15:07:46 [I004] Memory : loaded jmx for Java HotSpot(TM) 64-Bit Server VM(25.201-b09)
+2022-08-11/15:07:46 [I001] java.nio.file.FileSystems initialize.
+2022-08-11/15:07:46 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:07:46 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:07:50 [I001] JDBC Context: org.apache.naming.NamingContext
+2022-08-11/15:07:50 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:07:50 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:07:51 [I001] loading runtime module : C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.impl-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.jdk6-5.6.0.10.jar;C:\Users\unipoint\Desktop\jennifer\jennifer-agent-java-5.6.0.10\agent.java\jennifer.rt-5.6.0.10.jar
+2022-08-11/15:07:51 [I001] loading ClassLoader : aries.base.AgentClassLoader@58e3fc95, java.net.URLClassLoader@421faab1
+2022-08-11/15:07:51 [I001] runtime module URL => file:/C:/Users/unipoint/Desktop/jennifer/jennifer-agent-java-5.6.0.10/agent.java/jennifer.jdk6-5.6.0.10.jar!/aries/runtime/ModuleMain.class
+2022-08-11/15:07:51 [I001] Runtime Module initialized
+2022-08-11/15:07:51 [I001] Profile WrapperFactoryImpl implements WrapperFactory
+2022-08-11/15:07:51 [I010] Jennifer-PerformanceRecorderManager start
+2022-08-11/15:07:51 [I010] Jennifer-ActiveServiceSummary start
+2022-08-11/15:07:51 [I010] Jennifer-ThreadAutoKillWorker start
+2022-08-11/15:07:51 [I010] Jennifer-JMXDataSourceRecorder start
+2022-08-11/15:07:51 [I012] DataSourceRecorder wait initial time for jmx server = [60000]
+2022-08-11/15:07:51 [I031] Jennifer-AutoMethodProfilerStartStop start
+2022-08-11/15:07:51 [I001] Runtime Module loading complete... 
+2022-08-11/15:07:51 [I010] StackTrace collector warming up during 60000 ms
+2022-08-11/15:07:54 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:07:55 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:07:59 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:07:59 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:03 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:03 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:07 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:07 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:11 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:12 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:16 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:16 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:20 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:20 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:24 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:24 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:28 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:29 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:33 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:33 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:37 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:37 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:41 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:41 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:45 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:45 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:49 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:50 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:54 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:54 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:08:58 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:08:58 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:02 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:02 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:06 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:07 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:11 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:11 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:15 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:15 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:19 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:19 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:23 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:24 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:28 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:28 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:32 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:32 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:36 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:36 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:40 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:41 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:45 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:45 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:49 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:49 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:53 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:54 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:09:58 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:09:58 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:02 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:02 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:06 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:06 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:11 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:11 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:15 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:15 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:19 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:20 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:24 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:24 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:28 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:28 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:32 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:32 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:36 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:37 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:41 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:41 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:45 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:45 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:49 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:49 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:53 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:54 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:10:58 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:10:58 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:02 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:02 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:06 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:07 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:11 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:11 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:15 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:15 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:19 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:20 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:24 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:24 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:28 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:28 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:32 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:33 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:37 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:37 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:41 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:41 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:45 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:45 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:49 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:50 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:54 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:54 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:11:58 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:11:58 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:02 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:02 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:06 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:07 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:11 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:11 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:15 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:15 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:19 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:20 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:24 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:24 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:28 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:28 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:32 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:32 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:36 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:37 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:41 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:41 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:45 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:45 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:49 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:50 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:54 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:54 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:12:58 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:12:58 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:02 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:03 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:07 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:07 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:11 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:11 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:15 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:15 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:19 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:19 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:23 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:24 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:28 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:28 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:32 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:32 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:36 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:36 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:40 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:41 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:45 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:45 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:49 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:49 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:53 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:53 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:13:57 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:13:57 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:14:01 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:14:02 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:14:06 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:14:06 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:14:10 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:14:10 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:14:14 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:14:15 [I013] Data server connection is closed, retry after 4000ms
+2022-08-11/15:14:19 [I013] Cannot create data server session. Rejected by data server. reason=no license found, serverVersion=5.6.0.27
+2022-08-11/15:14:19 [I013] Data server connection is closed, retry after 4000ms
